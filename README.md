@@ -10,7 +10,7 @@ Ask me about running a trading business.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-carrière-392a282)  
 
 ## 📊 Presentations & Charts:
-- [Commitment of Traders Analysis](https://www.canva.com/design/DAGfEu96Y3I/18E2GGQ4SUtVTyJeSNxwgA/view?utm_content=DAGfEu96Y3I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9326fa7425#1)
+- [Foreman Capital EOOD](https://www.canva.com/design/DAGfEu96Y3I/18E2GGQ4SUtVTyJeSNxwgA/view?utm_content=DAGfEu96Y3I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9326fa7425#1)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
