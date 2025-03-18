@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently working on data analysis of the Commitment of Traders Report.  
-I'm looking to collaborate with traders.  
+I'm looking to collaborate with traders/quants/data analysts.  
 I'm looking for help with web design.  
 I'm currently learning Python, SQL, Tableau, Power BI.  
 Ask me about running a trading business.  
