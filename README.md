@@ -13,6 +13,7 @@ Ask me about running a trading business.
 - [Tableau Futures FX Dashboard](https://public.tableau.com/app/profile/joshua.carriere/viz/FXFuturesDashboard/Dashboard1)
 - [COT strategy returns created in Python](https://joshuacarriere.github.io/BankofCanada/cot-returns-2024.html)
 - [BOS Indicator](https://joshuacarriere.github.io/BankofCanada/BOS_chart.html)
+- [Foreman Capital EOOD - Friends and Family offering document](https://www.canva.com/design/DAGfEu96Y3I/18E2GGQ4SUtVTyJeSNxwgA/view?utm_content=DAGfEu96Y3I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9326fa7425)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
