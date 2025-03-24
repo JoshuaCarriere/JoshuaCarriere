@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm currently working on data analysis of the Commitment of Traders Report.  
+I'm currently building a database specifically designed to look at maximum favourable/adverse excursions in day trading.  
 I'm looking to collaborate with traders/quants/data analysts.  
-I'm looking for help with web design.  
+I'm looking to network with investors.  
 I'm currently learning Python, SQL, Tableau, Power BI.  
 Ask me about running a trading business.  
 
