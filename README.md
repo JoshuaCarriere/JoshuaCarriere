@@ -15,6 +15,7 @@ Ask me about running a trading business.
 - [BOS Indicator](https://joshuacarriere.github.io/BankofCanada/BOS_chart.html)
 - [Foreman Capital EOOD - Friends and Family offering document](https://www.canva.com/design/DAGfEu96Y3I/18E2GGQ4SUtVTyJeSNxwgA/view?utm_content=DAGfEu96Y3I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9326fa7425)
 - [Petition to Relocate the proposed Videotron Tower on Slavery Lake](https://www.youtube.com/watch?v=I43JyFpRZAI&feature=youtu.be)
+- [Petition Update for the Relocation of the Videotron Tower at Slavery Lake to the Kilmar mine site](https://youtu.be/QbR9rtvXBEc)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
